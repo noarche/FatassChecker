@@ -4,8 +4,8 @@ Calculate your body stats to the national average.
 
 
 Enter your weight in pounds: 433
-Enter your height in inches: 62
-Enter your age in years: 26
+\nEnter your height in inches: 62
+\nEnter your age in years: 26
 You entered:
 Weight: 433.0 pounds
 Height: 62.0 inches
